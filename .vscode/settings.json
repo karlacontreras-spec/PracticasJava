@@ -1,4 +1,6 @@
-{
+mkdir infotec
+cd infotec
+mkdir src{
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
         "usuarios/src/main/java/com/infotec/usuarios"
